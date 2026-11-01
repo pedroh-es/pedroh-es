@@ -1,8 +1,10 @@
 # 🧑‍💻 Pedro H. Esmeraldino Silvano
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F7F7F7&width=435&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=F7F7F7&width=435&height=30&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Web" alt="Typing SVG" />
 </a>
+
+---
 
 ### Sobre Mim
 
