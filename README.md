@@ -1,6 +1,6 @@
 # 🧑‍💻 Pedro H. Esmeraldino Silvano
 
-### 🙋‍♂️ Sobre Mim
+### Sobre Mim
 
 - 🎓 Cursando **Engenharia de Software** (3º período).
 - 🎂 23 anos.
@@ -8,8 +8,6 @@
 - 💡 Entusiasta de arquitetura de código, boas práticas e resolução de problemas.
 
 ---
-
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
