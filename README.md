@@ -8,10 +8,7 @@
 
 ### Sobre Mim
 
-- 🎓 Cursando **Engenharia de Software** (3º período).
-- 🎂 23 anos.
-- 🚀 Em constante evolução na programação, com foco principal em **Desenvolvimento Web**.
-- 💡 Entusiasta de arquitetura de código, boas práticas e resolução de problemas.
+Me chamo Pedro Henrique Esmeraldino Silvano, tenho 23 anos e atualmente estou no 3º período do curso de Engenharia de Software. Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas, com foco principal em desenvolvimento web, boas práticas de código e constante evolução na programação.
 
 ---
 
