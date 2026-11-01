@@ -1,6 +1,4 @@
-# Olá, eu sou o Pedro Silvano 👋
-
----
+# 🧑‍💻 Pedro H. Esmeraldino Silvano
 
 ### 🙋‍♂️ Sobre Mim
 
