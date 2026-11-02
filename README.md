@@ -1,32 +1,45 @@
-# 🧑‍💻 Pedro H. Esmeraldino Silvano
+# 👨‍💻 Pedro H. Esmeraldino Silvano
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=F7F7F7&width=435&height=30&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Web" alt="Typing SVG" />
-</a>
+> **Estudante de Engenharia de Software | Desenvolvedor Web**
 
 ---
 
-### Sobre Mim
+### 📌 Sobre Mim
 
-Me chamo Pedro Henrique Esmeraldino Silvano, tenho 23 anos e atualmente estou no 3º período do curso de Engenharia de Software. Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas, com foco principal em desenvolvimento web, boas práticas de código e constante evolução na programação.
+Sou acadêmico de **Engenharia de Software** no **Centro Universitário Assis Gurgacz (FAG)** (3º período), apaixonado por tecnologia, arquitetura de código e resolução de problemas. Tenho foco no desenvolvimento de aplicações web modernas, aplicando boas práticas de programação, padrões SOLID e constante evolução técnica.
+
+- 🎓 Cursando **Engenharia de Software** na **FAG**
+- 📍 Cascavel, PR - Brasil
+- 💼 Aberto a conexões, projetos *open-source* e oportunidades na área de desenvolvimento
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack & Ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### Contatos
+### 📊 Estatísticas no GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroh-es&show_icons=true&theme=emerald&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh-es&layout=compact&theme=emerald&hide=html,css"/>
+</div>
 
 ---
 
+### 📫 Vamos conversar?
+
+<a href="mailto:pedrohenriqueedc283@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/pedro-esmeraldino" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
