@@ -28,9 +28,11 @@ Sou acadêmico de **Engenharia de Software** no **Centro Universitário Assis Gu
 
 ### 📊 Estatísticas no GitHub
 
+### 📊 Estatísticas no GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroh-es&show_icons=true&theme=emerald&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh-es&layout=compact&theme=emerald"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=pedroh-es&show_icons=true&theme=emerald"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedroh-es&layout=compact&theme=emerald"/>
 </div>
 ---
 
